@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/FileGuard.dir/src/main.cpp.o CMakeFiles/FileGuard.dir/src/ThreadSafeMemoryPool.cpp.o -o FileGuard 
